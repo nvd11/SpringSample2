@@ -13,7 +13,7 @@ function jumpToLoginPage(){
 <form name="form1" id="form1" action="/MavenArt1/Login" method="post">
 </form>
 
-<h2>Hello World!!</h2>
+<h2>Hello World!!!</h2>
 <input type="button" onclick="jumpToLoginPage()" value="login"/>
 
 </body>
